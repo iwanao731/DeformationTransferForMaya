@@ -2,6 +2,8 @@
 
 This is a plugin to do "Deformation Transfer" on Maya.
 
+![](example.png)
+
 ## Requirement
 You need to install numpy and scipy for your Maya environemnt.
 
